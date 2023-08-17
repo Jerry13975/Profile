@@ -1,3 +1,5 @@
-* {
-    background-color: green;
-}
+@import 'normalize.css';
+@import 'base/_global';
+@import 'modules/_about-page.css';
+@import 'modules/_padding.css';
+
