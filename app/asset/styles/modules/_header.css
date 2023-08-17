@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    &__name{
+        margin-left: 3rem;
+    }
+    &__links{
+        display: flex;
+        list-style: none;
+        align-items: center;
+        margin-right: 3rem;
+        ul {
+            list-style: none;
+            display:flex;
+            gap: 1rem;
+        }
+        a{
+            text-decoration: none;
+            color: black;
+        }
+    }
+}
