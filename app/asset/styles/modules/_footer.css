@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    &__images{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+
+    }
+    img {
+        max-width: 5%;
+        max-height: 5%;
+    }
+    a{
+        text-decoration: none;
+    }
+}

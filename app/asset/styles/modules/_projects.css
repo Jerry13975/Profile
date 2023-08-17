@@ -1,6 +1,5 @@
 .projects{
     display: block;
-    overflow: hidden;
     &__title{
         text-align: center;
     }
