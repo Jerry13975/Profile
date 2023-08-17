@@ -2,4 +2,5 @@
 @import 'base/_global';
 @import 'modules/_about-page.css';
 @import 'modules/_padding.css';
-@import 'modules/_experience.css'
+@import 'modules/_experience.css';
+@import 'modules/_projects';

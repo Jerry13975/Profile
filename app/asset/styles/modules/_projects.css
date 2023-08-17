@@ -1,0 +1,15 @@
+.projects{
+    display: block;
+    overflow: hidden;
+    &__title{
+        text-align: center;
+    }
+    &__content{
+        background-color: black;
+        height: 50vh;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
